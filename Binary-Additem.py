@@ -3,7 +3,6 @@
 #For this case, we are taking the scenario of an item, its quantity, and the price per unit
 
 import pickle
-import os
 
 def additem(f):
     fobj=open(f,"ab")
